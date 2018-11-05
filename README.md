@@ -1,8 +1,8 @@
 # Daftar Shinyapps Indonesia
 
 ## Statistik
-- [SWANSTAT](https://apps.swanstatistics.com/swanstat/) oleh [Swanstatistics](https://swanstatistics.com)
-- [STATCAL](https://gioprana.shinyapps.io/STATCAL/) oleh [STATCAL](https://statcal.info)
+- [SWANSTAT](https://apps.swanstatistics.com/swanstat/) oleh [Swanstatistics](https://swanstatistics.com).
+- [STATCAL](https://gioprana.shinyapps.io/STATCAL/) oleh [STATCAL](https://statcal.info).
 
 ## Hidrogeologi
 - [Thermostats](https://aswansyahputra.shinyapps.io/thermostats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan rekan. Kode sumber tersedia [disini](https://github.com/dasaptaerwin/thermostats).
