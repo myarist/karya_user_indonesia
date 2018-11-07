@@ -1,6 +1,6 @@
 # Daftar Shinyapps Indonesia
 
-## Statistik
+## Olah Statistik
 - [SWANSTAT](https://apps.swanstatistics.com/swanstat/) oleh [Swanstatistics](https://swanstatistics.com).
 - [STATCAL](https://gioprana.shinyapps.io/STATCAL/) oleh [STATCAL](https://statcal.info).
 
@@ -13,6 +13,9 @@
 
 ## Manajemen
 - [Multiple Criteria Decision Making](https://aswansyahputra.shinyapps.io/mcdm) oleh [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/mcdm).
+
+## Pemetaan
+- [Hotspot Analysis](https://hadimaster65555.shinyapps.io/K-Mean-Clustering-for-Hotspot-Dataset-Riau/) oleh [Raden Muhammad Hadi](http://hadimaster65555.github.io).
 
 *Shinyapps Anda...(silakan membuat pull request atau kontak [Muhammad Aswan Syahputra](https://t.me/aswansyahputra))*
 
