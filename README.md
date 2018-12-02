@@ -6,6 +6,7 @@
 
 ## Hidrogeologi
 - [Thermostats](https://aswansyahputra.shinyapps.io/thermostats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan rekan. Kode sumber tersedia [disini](https://github.com/dasaptaerwin/thermostats).
+- [Aquastats](https://aswansyahputra.shinyapps.io/aquastats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/aquastats).
 
 ## Ilmu Sensoris
 - [SenseHub](https://s.id/sensehub_basic) oleh [Sensolution.ID](https://sensolution.id). Kode sumber tersedia [disini](https://github.com/SensolutionID/sensehub_basic).
