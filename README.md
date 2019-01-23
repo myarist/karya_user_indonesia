@@ -1,24 +1,27 @@
-# Daftar Shinyapps Indonesia
+# Daftar Karya useR! Indonesia
 
-## Olah Statistik
-- [SWANSTAT](https://apps.swanstatistics.com/swanstat/) oleh [Swanstatistics](https://swanstatistics.com).
-- [STATCAL](https://gioprana.shinyapps.io/STATCAL/) oleh [STATCAL](https://statcal.info).
+## Shinyapps
+* Olah Statistik
+  + [SWANSTAT](https://apps.swanstatistics.com/swanstat/) oleh [Swanstatistics](https://swanstatistics.com).
+  + [STATCAL](https://gioprana.shinyapps.io/STATCAL/) oleh [STATCAL](https://statcal.info).
 
-## Hidrogeologi
-- [Thermostats](https://aswansyahputra.shinyapps.io/thermostats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan rekan. Kode sumber tersedia [disini](https://github.com/dasaptaerwin/thermostats).
-- [Aquastats](https://aswansyahputra.shinyapps.io/aquastats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/aquastats).
+* Hidrogeologi
+  + [Thermostats](https://aswansyahputra.shinyapps.io/thermostats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan rekan. Kode sumber tersedia [disini](https://github.com/dasaptaerwin/thermostats).
+  + [Aquastats](https://aswansyahputra.shinyapps.io/aquastats) oleh [Dasapta Erwin Irawan](http://dasaptaerwin.net/wp/) dan [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/aquastats).
 
-## Ilmu Sensoris
-- [SenseHub](https://s.id/sensehub_basic) oleh [Sensolution.ID](https://sensolution.id). Kode sumber tersedia [disini](https://github.com/SensolutionID/sensehub_basic).
-- [SenseHub - Pro](https://sensehub.sensolution.id) oleh [Sensolution.ID](https://sensolution.id).
+* Ilmu Sensoris
+  + [SenseHub](https://s.id/sensehub_basic) oleh [Sensolution.ID](https://sensolution.id). Kode sumber tersedia [disini](https://github.com/SensolutionID/sensehub_basic).
+  + [SenseHub - Pro](https://sensehub.sensolution.id) oleh [Sensolution.ID](https://sensolution.id).
 
-## Manajemen
-- [Multiple Criteria Decision Making](https://aswansyahputra.shinyapps.io/mcdm) oleh [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/mcdm).
+* Manajemen
+  + [Multiple Criteria Decision Making](https://aswansyahputra.shinyapps.io/mcdm) oleh [Muhammad Aswan Syahputra](https://aswansyahputra.com). Kode sumber tersedia [disini](https://github.com/aswansyahputra/mcdm).
 
-## Pemetaan
-- [Hotspot Analysis](https://hadimaster65555.shinyapps.io/K-Mean-Clustering-for-Hotspot-Dataset-Riau/) oleh [Raden Muhammad Hadi](http://hadimaster65555.github.io).
+* Pemetaan
+  + [Hotspot Analysis](https://hadimaster65555.shinyapps.io/K-Mean-Clustering-for-Hotspot-Dataset-Riau/) oleh [Raden Muhammad Hadi](http://hadimaster65555.github.io).
 
-*Shinyapps Anda...(silakan membuat pull request atau kontak [Muhammad Aswan Syahputra](https://t.me/aswansyahputra))*
+> *Shinyapps Anda...(silakan membuat pull request atau kontak [Muhammad Aswan Syahputra](https://t.me/aswansyahputra))*
+
+## R Package
 
 ## Komunitas useR! Indonesia
 Silakan bergabung untuk berkenalan, berdiskusi, dan berkontribusi.
